@@ -19,7 +19,7 @@ Matplotlib, Seaborn
 🚀 Getting Started
 To run this notebook:    
 Clone the repository:  
-git clone https://github.com/Siddartha1308/Determination-of-Pesiticide-residue-in-Grapes.git
+git clone https://github.com/Siddartha1308/Analysis-of-ECG-Readings.git
 Open the notebook in Jupyter:
 jupyter notebook "Research internship.ipynb"
 
